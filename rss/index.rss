@@ -1,0 +1,39 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>cat /var/log/hackpert</title><description>Musings of a wannabe maker.</description><link>http://localhost:2368/</link><generator>Ghost 0.9</generator><lastBuildDate>Wed, 06 Jul 2016 19:11:37 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>About this blog</title><description>&lt;p&gt;So here I am with another blog, started in the middle of 2016. I bet the question on most minds is &lt;em&gt;Why bother?&lt;/em&gt;. Well at least it is on mine, so I'm going to answer it anyway.&lt;/p&gt;
+
+&lt;h3 id="whythisblog"&gt;Why this blog?&lt;/h3&gt;
+
+&lt;p&gt;About four years ago I was the usual nerd you'd&lt;/p&gt;</description><link>http://localhost:2368/about-this-blog/</link><guid isPermaLink="false">f704c33e-9ce3-4d63-a267-f442cb6e3f0b</guid><dc:creator>S Sachdeva</dc:creator><pubDate>Wed, 06 Jul 2016 19:07:47 GMT</pubDate><content:encoded>&lt;p&gt;So here I am with another blog, started in the middle of 2016. I bet the question on most minds is &lt;em&gt;Why bother?&lt;/em&gt;. Well at least it is on mine, so I'm going to answer it anyway.&lt;/p&gt;
+
+&lt;h3 id="whythisblog"&gt;Why this blog?&lt;/h3&gt;
+
+&lt;p&gt;About four years ago I was the usual nerd you'd find flocking the front desk in every classroom around the world, with a dash of typical nerdy hobbies like reading, quizzing, coding etc. I gradually underwent a tremendous transformation from a typical nerd to a maker (more like a &lt;em&gt;wannabe maker&lt;/em&gt;). The turning point for me was the realization that not only could I do what I was interested in for the rest of my life, but actually get &lt;em&gt;good&lt;/em&gt; at making and make an impact through my work. &lt;/p&gt;
+
+&lt;p&gt;While this might seem trivial to most readers, this realization defines what I do today and is the ethos of this blog. &lt;/p&gt;
+
+&lt;h3 id="whatisitabout"&gt;What is it about?&lt;/h3&gt;
+
+&lt;p&gt;Enough about the background story already, right? This blog, as the description states, is going to be all about the science and art of &lt;strong&gt;making&lt;/strong&gt;. &lt;/p&gt;
+
+&lt;p&gt;Now, what exactly constitutes making in this context? Absolutely everything. My posts are going to cover a wide range of topics ranging from perhaps a new paper in statistical physics to a some new electronics or science project I undertake. As evident from the the name, a lot of my posts are going to be about or use computers, but my thoughts and ideas certainly go beyond. &lt;/p&gt;
+
+&lt;p&gt;There is one thing I promise, though. None of my posts will be boring if you read them with the right outlook.  &lt;/p&gt;
+
+&lt;h3 id="whyghost"&gt;Why Ghost?&lt;/h3&gt;
+
+&lt;p&gt;There are a ton of blogging platforms to choose from. Why in the world did I choose a rather cumbersome to set up platform? Here are a few reasons which might make sense&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Markdown ♥️. Impeccable markdown support with a beautiful interface is one of the prime reasons I chose Ghost over others.&lt;/li&gt;
+&lt;li&gt;Ghost is beautiful. Not much to say about that.&lt;/li&gt;
+&lt;li&gt;Offline editing. Right now I edit the blog offline, check that everything works, and then push it to Github Pages with &lt;a href="https://github.com/axitkhurana/buster"&gt;buster&lt;/a&gt;. It's so much more convenient.&lt;/li&gt;
+&lt;li&gt;Markdown yet again. And I can write and edit my posts on my Kindle Paperwhite. Who even edits stuff on Kindle? I do. (I think I'll write a post on doing nice stuff on Kindle later)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="whoareyouanyway"&gt;Who are you anyway?&lt;/h3&gt;
+
+&lt;p&gt;Well if you've stuck around till now without knowing this, thank you! This question, almost trivial for most people, is incredibly hard for me to answer.&lt;/p&gt;
+
+&lt;p&gt;I am Saarthak, an 18 year old wannabe maker. People often associate where they live or where they went to school with their identities, but honestly I don't deem those important enough to let them define me. Who am I? I am who I am, and I won't tell you because I want to let you form your own opinion. &lt;/p&gt;
+
+&lt;p&gt;Thanks for reading all of my ramblings! Here's a cat GIF for you. &lt;br&gt;
+&lt;img src="http://www.pbh2.com/wordpress/wp-content/uploads/2013/05/cutest-cat-gifs-licking.gif" alt="Cat gif"&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
